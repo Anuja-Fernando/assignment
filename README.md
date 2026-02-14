@@ -76,7 +76,7 @@ java problem_3.optimal
    
 ```
 bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/Anuja-Fernando/assignment/.git
    
 ```
 
@@ -84,7 +84,7 @@ bash
    
 ```
 bash
-   cd YOUR_REPO_NAME
+   cd assignment
    
 ```
 
@@ -124,3 +124,4 @@ bash
 - Each Java file has a `main` method and can be run independently
 - The programs will prompt for user input when run
 - Make sure to compile before running
+
